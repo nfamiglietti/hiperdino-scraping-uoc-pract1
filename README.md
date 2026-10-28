@@ -219,4 +219,4 @@ condiciones de uso del sitio y confirmar que la licencia propuesta es adecuada.
 > Supermercados Hiperdino: Práctica 1 — Tipología y ciclo de vida de los datos*
 > (versión 1.0). Zenodo. https://doi.org/10.5281/zenodo.23557549
 
-Datos extraidos el 20 de octubre de 2026
+Datos extraídos el 20 de octubre de 2026
